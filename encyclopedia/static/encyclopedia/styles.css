@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    background-color: white;
+}
+
+code {
+    white-space: pre;
+}
+
+h1 {
+    text-align: center;
+    border-style:solid;
+    border-width: 1px;
+    border-color:aqua;
+    margin-top: 0px;
+    padding: 10px;
+}
+
+textarea {
+    height: 90vh;
+    width: 80%;
+}
+
+.main {
+    padding: 10px;
+}
+
+.search {
+    width: 100%;
+    font-size: 15px;
+    line-height: 15px;
+}
+
+.sidebar {
+    background-color: #f0f0f0;
+    height: 100vh;
+    padding: 20px;
+}
+
+.sidebar h2 {
+    margin-top: 5px;
+}
+
+.title {
+    margin: 15px;
+}
+
+.content {
+    margin: 15px;
+}
+
